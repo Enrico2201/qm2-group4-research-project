@@ -61,3 +61,9 @@ Table 3: Summary and analysis of clustering results from Figure 3
 The code used to plot the correlogram can he found here. (give a link to the GitHub page with the lines of code on it)
 <img width="620" alt="Capture d’écran 2021-12-09 à 4 29 44 PM" src="https://user-images.githubusercontent.com/93673467/145436543-87e2fba6-0ef3-4d3d-a08f-4b25db372135.png">
 
+The code used to calculate the correlation coefficients and regression statistics can be found here. (give a link to the GitHub page with the lines of code on it)
+
+The code used to calculate the Kendall tau coefficients can be found here.
+
+The code used to plot clustering graphs and calculate Silhouette scores can be found here.
+
